@@ -7,7 +7,7 @@ Transformo necessidades do dia a dia em soluções digitais para empresas e inst
 
 **Responsável pela Doutor TI · Salvador, Bahia, Brasil**
 
-[LinkedIn](https://www.linkedin.com/in/jorge-henrique-a352a8176/) · [E-mail](mailto:jorgehenriquealvin@gmail.com)
+[Site Doutor TI](https://jhtech.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/jorge-henrique-a352a8176/) · [E-mail](mailto:jorgehenriquealvin@gmail.com)
 
 </div>
 
@@ -52,7 +52,7 @@ Os projetos abaixo representam as frentes de desenvolvimento presentes nos meus 
 | --- | --- |
 | **Hotel Carranca** | Sistema de gestão hoteleira com reservas, hóspedes, quartos, consumos, cardápio, comandas, estoque, caixa e relatórios. Inclui estrutura de aplicativo desktop com Electron. |
 | **Projeto Elane — Pizzaria** | Plataforma de cardápio, pedidos e gestão de pizzaria, com personalização de produtos, checkout, acompanhamento de pedidos e painel administrativo. |
-| **Doutor TI** | Site profissional para apresentar manutenção, suporte remoto, criação de sites, sistemas, aplicativos e automação de atendimento. |
+| **[Doutor TI](https://jhtech.vercel.app/)** | Site profissional para apresentar manutenção, suporte remoto, criação de sites, sistemas, aplicativos e automação de atendimento. |
 | **Jorge.TI — Assistência Técnica** | Projeto de presença digital voltado à apresentação de serviços de manutenção, upgrades, diagnóstico e suporte remoto. |
 
 > Parte do portfólio está em repositórios privados. Demonstrações e detalhes podem ser apresentados conforme a disponibilidade e as permissões de cada projeto.
@@ -87,6 +87,7 @@ Os projetos abaixo representam as frentes de desenvolvimento presentes nos meus 
 
 **Vamos conversar sobre o seu projeto?**
 
+- **Site:** [Doutor TI — jhtech.vercel.app](https://jhtech.vercel.app/)
 - **E-mail:** [jorgehenriquealvin@gmail.com](mailto:jorgehenriquealvin@gmail.com)
 - **LinkedIn:** [Jorge Henrique](https://www.linkedin.com/in/jorge-henrique-a352a8176/)
 - **Localização:** Salvador, Bahia, Brasil.
